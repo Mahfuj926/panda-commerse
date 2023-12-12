@@ -18,4 +18,41 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+    text-align: center;
+}
+.cat1, .cat2, .cat3{
+color: white;
+padding: 20px 15px;
+border-radius: 15px;
+}
+.cat1{
+    background-color: orangered;
+}
+.cat2{
+    background-color: #ff5898;
+}
+.cat3{
+    background-color: aqua;
+}
+.categories img{
+    width: 120px;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 15px lightgray;
+}
+.container .bagpack{
+    margin-top: 150px;
+    border-radius: 15px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+    text-align: center;
+}
+#Contactus{
+    height: 240px;
+}
+footer{
+    text-align: center;
 }
